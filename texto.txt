@@ -6,4 +6,4 @@ Pasos para crear repo:
 -git status
 - git log
 Cierre
-clear
+cambios
