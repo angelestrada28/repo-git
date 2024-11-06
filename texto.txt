@@ -1,0 +1,9 @@
+Hola Mundo
+El veloz murcielago hindú comía feliz cardillo y kiwi
+Práctica de GIT
+Pasos para crear repo:
+- git init
+-git status
+- git log
+Cierre
+clear
